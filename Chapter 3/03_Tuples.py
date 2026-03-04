@@ -7,7 +7,7 @@
 
 Name_and_Number = (1, 45, 454, 6442, 7665, 6797, 75, 2, 4,
      "sameer", "ameer", "rohan",
-     "Abinash", "Sai Krishna")
+     "Abinash", "Chirkut")
 
 # Printing the tuple
 print(Name_and_Number)

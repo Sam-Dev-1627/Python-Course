@@ -6,7 +6,7 @@
 # Lists are mutable (can be changed).
 # =====================================================
 
-friends = ["Sameer", "Abinash", "Sai Krishna", "1611", "278", "70707"]
+friends = ["Sameer", "Abinash", "Chirkut", "1611", "278", "70707"]
 
 # Accessing elements using index
 # Index starts from 0

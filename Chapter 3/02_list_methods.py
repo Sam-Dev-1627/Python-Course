@@ -3,7 +3,7 @@
 # List methods are built-in functions used to modify lists.
 # =====================================================
 
-friends = ["Sameer", "Abinash", "Sai Krishna", "1611", "278", "70707"]
+friends = ["Sameer", "Abinash", "Chirkut", "1611", "278", "70707"]
 
 print("Original friends list:", friends)
 
