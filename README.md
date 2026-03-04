@@ -21,6 +21,8 @@ A beginner-to-advanced Python course covering fundamentals, object-oriented prog
 - Stone Paper Scissor: Mini Game Project
 
 ---
+## All chapter will be available till April 10
+---
 
 ## Prerequisites
 
